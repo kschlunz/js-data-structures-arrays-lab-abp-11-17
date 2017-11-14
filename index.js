@@ -26,7 +26,7 @@ function prependDriver(names){
   return ["Arnold", ...drivers]
 }
 
-function removeLastDriver(names){
+function removeLastDriver(){
   return drivers.slice(-1)
 }
 
