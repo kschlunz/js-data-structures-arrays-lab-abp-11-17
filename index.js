@@ -1,5 +1,2 @@
-const drivers = ["Milo", "Otis", "Garfield"];
-
-const appendDriver = [...drivers, "Ralph"];
-
-const prependDriver = ["Bob", ...drivers];
+// Write your solution here!
+const drivers =  ["Milo", "Otis", "Garfield"];
