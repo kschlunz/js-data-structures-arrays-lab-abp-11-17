@@ -2,5 +2,5 @@
 const drivers =  ["Milo", "Otis", "Garfield"];
 
 function appendDriver(names){
-  console.log(drivers.push("Ralph"))
+  return drivers.push("Ralph")
 }
