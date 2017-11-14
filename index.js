@@ -1,6 +1,6 @@
 // Write your solution here!
 const drivers =  ["Milo", "Otis", "Garfield"];
 
-const destructivelyAppendDriver = function ("Ralph"){
+function(drivers){
   return drivers.push("Ralph")
 }
