@@ -16,3 +16,10 @@ function destructivelyRemoveLastDriver(names){
 function destructivelyRemoveFirstDriver(names){
   return drivers.shift()
 }
+
+
+function appendDriver(names){
+  return drivers.push("Broom")
+
+
+}
